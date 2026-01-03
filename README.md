@@ -131,7 +131,7 @@ Make sure the backend API base URL is configured correctly in your environment.
 
 ---
 
-## 🛠 Future Improvements (Planned)
+## Future Improvements (Planned)
 
 * Album artist & year in album grid
 * Disc grouping for multi-disc albums

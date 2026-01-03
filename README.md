@@ -1,7 +1,7 @@
-# 🎵 Nostalgia Media Center - Frontend
+# Nostalgia Media Center - Frontend
 
 <!--
-📸 Screenshot
+Screenshot
 Replace the image below with an actual screenshot once ready.
 -->
 <p align="center">
@@ -14,35 +14,35 @@ The focus of this frontend is **clarity, speed, and a clean listening experience
 
 ---
 
-## ✨ Features
+## Features
 
-### 🎼 Library
+### Library
 - **Albums view** with cover art
 - Rich album detail pages with track listings
 - Consistent cover sizing and clean typography
 - Supports albums with mixed artists (soundtracks, compilations)
 
-### ❤️ Favourites
+### Favourites
 - Mark tracks as favourites
 - Quickly access your most-loved songs
 
-### 📂 Playlists
+### Playlists
 - Create and manage playlists
 - Add tracks from albums or favourites
 - Playlist order is preserved
 
-### 🔍 Scanning & Library Management
+### Scanning & Library Management
 - Trigger directory scans from the UI
 - Reflects backend scan results in real time
 - Handles incremental scans safely
 
-### 🎧 Playback
+### Playback
 - Queue-based playback
 - Album play & shuffle
 - Track-level play
 - Persistent now-playing bar
 
-### 🎵 Format Support
+### Format Support
 - **MP3**
 - **FLAC**
 - **M4A / AAC**
@@ -50,7 +50,7 @@ The focus of this frontend is **clarity, speed, and a clean listening experience
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 - **React** + **TypeScript**
 - **Tailwind CSS** (utility-first styling)
@@ -60,7 +60,7 @@ The focus of this frontend is **clarity, speed, and a clean listening experience
 
 ---
 
-## 🗂 Project Structure (simplified)
+## Project Structure (simplified)
 
 ```
 
@@ -79,7 +79,7 @@ src/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 18+
@@ -104,7 +104,7 @@ http://localhost:5173
 
 ---
 
-## 🔗 Backend Dependency
+## Backend Dependency
 
 This frontend **requires the Nostalgia backend** for:
 
@@ -118,7 +118,7 @@ Make sure the backend API base URL is configured correctly in your environment.
 
 ---
 
-## 🎯 Design Philosophy
+## Design Philosophy
 
 * **UI should never guess metadata**
 * Backend is the source of truth
@@ -141,9 +141,9 @@ Make sure the backend API base URL is configured correctly in your environment.
 
 ---
 
-## 📄 License
+## License
 
-MIT (or update as appropriate)
+MIT
 
 ---
 

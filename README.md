@@ -1,8 +1,3 @@
-Here’s a clean, professional **README.md** you can drop straight into the frontend repository. It leaves a clear slot for screenshots at the top and reflects the features you’ve built without over-marketing or fluff.
-
----
-
-```md
 # 🎵 Nostalgia Media Center - Frontend
 
 <!--

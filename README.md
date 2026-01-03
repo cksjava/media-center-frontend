@@ -1,4 +1,4 @@
-# Nostalgia Media Center - Frontend
+# Media Center - Frontend
 
 <!--
 Screenshot
